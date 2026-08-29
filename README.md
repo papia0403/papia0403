@@ -76,9 +76,8 @@
 
 | Project | Description | Tech Used |
 |:---|:---|:---|
-| _Add your project name_ | _One-line description of what it does_ | Python, Pandas |
-| _Add your project name_ | _One-line description of what it does_ | SQL, Power BI |
-| _Add your project name_ | _One-line description of what it does_ | Excel, Google Sheets |
+| **[Online Bookstore](https://github.com/papia0403/online-bookstore-sql-project)** | A relational database project for an online bookstore — schema design, queries & data management | SQL |
+| **[ATM Simulator](PASTE_ATM_REPO_LINK_HERE)** | A simulated ATM system with transaction logic and an interactive Streamlit interface | Python, Streamlit |
 
 </div>
 
