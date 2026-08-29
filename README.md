@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBC2EB,100:A6C1EE&height=150&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=36&duration=3000&pause=1000&color=BB2649&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Papia+Khatun+%F0%9F%91%8B" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=36&duration=3000&pause=1000&color=F8A5C2&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Papia+Khatun+%F0%9F%91%8B" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Data+Enthusiast+%7C+Turning+Numbers+into+Stories+%F0%9F%93%8A;Aspiring+Data+Analyst+%7C+Python+%C2%B7+SQL+%C2%B7+Power+BI;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=C77DFF&center=true&vCenter=true&width=650&lines=Data+Enthusiast+%7C+Turning+Numbers+into+Stories+%F0%9F%93%8A;Aspiring+Data+Analyst+%7C+Python+%C2%B7+SQL+%C2%B7+Power+BI;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" />
 
 <br/>
 
@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
 **Libraries & Machine Learning**
 
@@ -53,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=papia0403&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=papia0403&show_icons=true&theme=radical&hide_border=true" width="48%" />
 <img src="https://streak-stats.demolab.com?user=papia0403&theme=radical&hide_border=true" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papia0403&layout=compact&theme=radical&hide_border=true" width="48%" />
@@ -64,7 +65,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=papia0403&theme=react-dark&hide_border=true" width="95%" />
+<img src="https://ghchart.rshah.org/A6C1EE/papia0403" width="95%" />
 
 </div>
 
@@ -72,14 +73,29 @@
 
 ## 🚀 Featured Projects
 
-<!-- Tell me your real repo names + one-line descriptions and I'll drop them in here -->
-
 <div align="center">
 
-| Project | Description | Tech Used |
-|:---|:---|:---|
-| **[Online Bookstore](https://github.com/papia0403/online-bookstore-sql-project)** | A relational database project for an online bookstore — schema design, queries & data management | SQL |
-| **[ATM Simulator](PASTE_ATM_REPO_LINK_HERE)** | A simulated ATM system with transaction logic and an interactive Streamlit interface | Python, Streamlit |
+### 📖 Online Bookstore
+A relational database project for an online bookstore — schema design, queries & data management.
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+<a href="https://github.com/papia0403/online-bookstore-sql-project" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 🏧 ATM Simulator
+A simulated ATM system with transaction logic and an interactive Streamlit interface.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+
+<!-- Replace PASTE_ATM_REPO_LINK_HERE with your real repo link once it's pushed -->
+<a href="PASTE_ATM_REPO_LINK_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-C77DFF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
