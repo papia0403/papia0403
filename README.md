@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBC2EB,100:A6C1EE&height=220&section=header&text=Hi,%20I'm%20Papia%20Khatun%20%F0%9F%91%8B&fontSize=40&fontColor=4A154B&fontAlignY=38&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBC2EB,100:A6C1EE&height=150&section=header" width="100%" />
 
-<img src="https://img.shields.io/badge/Data_Enthusiast-turning_numbers_into_stories-A6C1EE?style=for-the-badge&labelColor=FBC2EB" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=36&duration=3000&pause=1000&color=BB2649&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Papia+Khatun+%F0%9F%91%8B" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Data+Enthusiast+%7C+Turning+Numbers+into+Stories+%F0%9F%93%8A;Aspiring+Data+Analyst+%7C+Python+%C2%B7+SQL+%C2%B7+Power+BI;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" />
 
 <br/>
 
