@@ -86,15 +86,14 @@ A relational database project for an online bookstore — schema design, queries
 
 <br/><br/>
 
-### 🏧 ATM Simulator
-A simulated ATM system with transaction logic and an interactive Streamlit interface.
+### 🎵 Music Store SQL Analysis
+A SQL portfolio project analyzing an online music store database — 11-table schema, foreign keys, and advanced analytical queries.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/pgAdmin4-32A9DE?style=flat-square" />
 
-<!-- Replace PASTE_ATM_REPO_LINK_HERE with your real repo link once it's pushed -->
-<a href="PASTE_ATM_REPO_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Project-C77DFF?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/papia0403/music-store-sql-analysis" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-4ADE80?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
