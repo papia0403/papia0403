@@ -7,7 +7,9 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=C77DFF&center=true&vCenter=true&width=650&lines=Data+Enthusiast+%7C+Turning+Numbers+into+Stories+%F0%9F%93%8A;Aspiring+Data+Analyst+%7C+Python+%C2%B7+SQL+%C2%B7+Power+BI;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" />
 
 <br/>
-
+<a href="https://papiakhatun.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/papiakhatun/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
