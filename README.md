@@ -75,6 +75,19 @@
 
 ## 🚀 Featured Projects
 
+### 📊 E-commerce Sales Analysis
+An end-to-end exploratory data analysis of 31,047 sales records from an Indian fashion e-commerce store — data cleaning, 9 Excel pivot tables, KPI summary, dashboard, and a Python analysis with pandas & matplotlib.
+
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+
+<a href="https://github.com/papia0403/Ecommerce-Sales-Analysis" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-FF8C00?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
 <div align="center">
 
 ### 📖 Online Bookstore
