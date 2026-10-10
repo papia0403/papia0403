@@ -61,14 +61,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papia0403&layout=compact&theme=radical&hide_border=true" width="48%" />
 
-<h3 align="center">💻 Languages I Use</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
 </div>
 
 ## 📈 Contribution Graph
